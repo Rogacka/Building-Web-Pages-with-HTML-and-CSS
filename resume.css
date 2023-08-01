@@ -1,0 +1,28 @@
+.resume-page {
+  display: flex;
+  background-color: seashell;
+  font-family: "Arial";
+}
+
+.img {
+  margin: 30px;
+}
+
+.main-img {
+  border: solid 4px black;
+  border-radius: 50%;
+}
+
+.main-section {
+  width: 100%;
+  padding: 10px;
+}
+
+h1 {
+  padding: 5px;
+  background-color: #e2e2e2;
+}
+
+.section-title {
+  text-transform: uppercase;
+}
